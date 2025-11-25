@@ -1,0 +1,6 @@
+{    
+    "name": "MSX home",
+    "version": "4.6",
+    "parameter": "menu:https://vztenx.github.io/msx/menu/menu.json",
+    "welcome": "none"
+}
